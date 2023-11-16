@@ -1,0 +1,22 @@
+Git e GitHub
+Git:
+Git é um sistema de controle de versão distribuído que permite o gerenciamento eficiente de projetos de software, rastreando alterações nos arquivos ao longo do tempo. Ele foi desenvolvido por Linus Torvalds em 2005 e é amplamente utilizado por desenvolvedores para colaboração, controle de versão e rastreamento de alterações em projetos de software.
+
+Principais características do Git:
+
+Controle de Versão Distribuído: Cada usuário possui uma cópia completa do repositório, o que permite trabalhar offline e mesclar alterações de várias fontes.
+
+Rastreamento de Alterações: Git registra todas as modificações feitas nos arquivos, possibilitando visualizar e reverter para versões anteriores.
+
+Ramificação e Mesclagem (Branching e Merging): Permite criar ramificações para desenvolver recursos separadamente, testar novas funcionalidades e depois mesclá-las de volta ao projeto principal.
+
+GitHub:
+GitHub é uma plataforma de hospedagem de código que utiliza o Git para controle de versão. Ele oferece recursos de colaboração e facilita o trabalho em equipe. Algumas características do GitHub incluem:
+
+Hospedagem de Repositórios: Permite que os desenvolvedores armazenem, compartilhem e colaborem em projetos usando o Git.
+
+Controle de Acesso e Colaboração: Oferece recursos para gerenciar permissões de acesso aos repositórios, facilitando a colaboração entre equipes distribuídas.
+
+Rastreamento de Problemas (Issue Tracking) e Pull Requests: Possibilita o acompanhamento de problemas, sugestões e melhorias por meio de issues e a submissão de solicitações de incorporação (pull requests), que são propostas de alterações que podem ser revisadas e incorporadas ao código principal.
+
+Em resumo, Git é um sistema de controle de versão que permite o acompanhamento de alterações em arquivos, enquanto o GitHub é uma plataforma que utiliza o Git para hospedar repositórios, facilitando a colaboração e o gerenciamento de projetos de software.
